@@ -1,0 +1,117 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7639
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Eduardo Lira\Desktop\Jogo_Fernanda\Alien_Game\Explorando o Sistema Solar_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.543506 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.118913 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 3.150617 ms (FindLiveObjects: 0.057283 ms CreateObjectMapping: 0.030814 ms MarkObjects: 0.521086 ms  DeleteObjects: 2.541037 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.693925 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 1.797135 ms (FindLiveObjects: 0.044641 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.245728 ms  DeleteObjects: 1.477135 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.634765 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 7.855407 ms (FindLiveObjects: 0.119703 ms CreateObjectMapping: 0.128790 ms MarkObjects: 1.408000 ms  DeleteObjects: 6.198123 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.854913 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 1.925530 ms (FindLiveObjects: 0.030419 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.205432 ms  DeleteObjects: 1.660049 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.429037 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.459061 ms (FindLiveObjects: 0.040691 ms CreateObjectMapping: 0.015407 ms MarkObjects: 0.282864 ms  DeleteObjects: 0.119308 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.726123 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.432592 ms (FindLiveObjects: 0.047802 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.344493 ms  DeleteObjects: 0.005925 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.827654 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 2.467160 ms (FindLiveObjects: 0.037925 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.148543 ms  DeleteObjects: 2.247111 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.423111 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 3.094518 ms (FindLiveObjects: 0.071111 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.496987 ms  DeleteObjects: 2.500740 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.762074 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 5.236543 ms (FindLiveObjects: 0.057283 ms CreateObjectMapping: 0.077037 ms MarkObjects: 0.393086 ms  DeleteObjects: 4.708345 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.498567 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 2.987851 ms (FindLiveObjects: 0.076641 ms CreateObjectMapping: 0.031604 ms MarkObjects: 0.425086 ms  DeleteObjects: 2.453333 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.949333 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 1.852839 ms (FindLiveObjects: 0.027259 ms CreateObjectMapping: 0.034765 ms MarkObjects: 0.237432 ms  DeleteObjects: 1.552592 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557827 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 0.489086 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.026864 ms MarkObjects: 0.305382 ms  DeleteObjects: 0.120493 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27cc -> priority: 1 
+  Thread -> id: 3dec -> priority: 1 
